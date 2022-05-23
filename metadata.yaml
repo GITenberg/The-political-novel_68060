@@ -1,0 +1,30 @@
+_repo: The-political-novel_68060
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blotner, Joseph
+    alias: Blotner, Joseph Leo
+    birthdate: 1923
+    deathdate: 2012
+    gutenberg_agent_id: '54544'
+    url: http://www.gutenberg.org/2009/agents/54544
+description: ''
+gutenberg_issued: '2022-05-13'
+identifiers:
+  gutenberg: '68060'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015002343856&view=1up&seq=7
+pgterms:marc905: 20201220114755blotner
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Andrés V. Galia, Thiers, Noyster, Netsirk021 and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: United States :Doubleday,1955.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The political novel
+url: http://www.gutenberg.org/ebooks/68060
